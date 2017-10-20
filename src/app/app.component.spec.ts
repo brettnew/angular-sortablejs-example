@@ -1,4 +1,5 @@
 import { TestBed, async } from '@angular/core/testing';
+import { SortablejsModule } from '@angular-sortablejs';
 
 import { AppComponent } from './app.component';
 
